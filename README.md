@@ -74,8 +74,7 @@
   </picture>
 </div>
 
----
-
+<!-- Disabled 3D Skyline to avoid visual clutter & empty language ring:
 ### 🏙️ 3D Contribution Skyline
 
 <div align="center">
@@ -85,33 +84,30 @@
     <img alt="3D Contribution Skyline" src="./profile-3d-contrib/profile-night-view.svg" />
   </picture>
 </div>
+-->
 
 ---
 
 ### 📊 GitHub Analytics
 
-<!-- Disabled temporarily (shows public-only stats & C rank). Uncomment below when using a custom Vercel instance with PAT:
+<!-- Disabled widgets (saved for future use):
 <div align="center">
   <img height="175" src="https://github-readme-stats.vercel.app/api?username=thvs4235&show_icons=true&count_private=true&hide_rank=true&theme=tokyonight&hide_border=true" />
 </div>
--->
 
-<!-- Disabled temporarily (public trophy server frequently hits GitHub API rate limits):
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=thvs4235&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" />
   </a>
 </div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thvs4235&theme=tokyonight" />
+</div>
 -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=thvs4235&theme=tokyonight&hide_border=true" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thvs4235&theme=tokyonight" />
 </div>
 
 <br />
